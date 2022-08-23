@@ -1,8 +1,8 @@
-##LCD Project
+#LCD Project
 
 Show The Temprature in LCD (IC2) 
 
-##Component
+#Component
 
 1.LCD (IC2)
 

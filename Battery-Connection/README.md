@@ -4,7 +4,7 @@ Connect Battery With 3 Led With Diffrent Colors and Button and RGB led When Clic
 
 # Components
 
-1.Battery 9v
+ 1.Battery 9v
 
 2. (3) Buttons
 

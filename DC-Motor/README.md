@@ -16,6 +16,6 @@ When Click on The Button In Right The Motor Start Rotate In Right Side
 
 4.DC Motor
 
-5. (3) Buttons
+5. (3) Push Buttons
 
 6. (3) Resistors
